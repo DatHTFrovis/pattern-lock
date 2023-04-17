@@ -1,7 +1,7 @@
 # Pattern Lock View 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PatternLockView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6988) 
 
-Awesome pattern lock view for android written in kotlin.
+Awesome pattern lock view for android written in kotlin by Dat
 
 [demo](https://github.com/itsxtt/pattern-lock/tree/master/apk)
 
